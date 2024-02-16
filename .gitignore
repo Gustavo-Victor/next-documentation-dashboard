@@ -40,3 +40,7 @@ next-env.d.ts
 *.txt 
 notes 
 note 
+
+
+#local bash files
+test.sh
